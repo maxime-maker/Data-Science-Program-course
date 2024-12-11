@@ -1,0 +1,26 @@
+Communicating our findings
+Additional Resources: The links provided contain additional information from external resources.
+
+You are fluent in this language (and don't even know it) [TED Talk]      https://www.youtube.com/watch?v=0R9zjn9BBvA
+
+Without realising it, we're fluent in the language of pictures. Christoph Niemann takes us on a visual tour that shows how artists tap into our emotions and minds - all without words.
+
+The beauty of data visualisation [TED Talk]    https://www.youtube.com/watch?v=5Zg-C8AAIGg
+
+David McCandless turns complex data sets like worldwide military spending, media buzz, and Facebook status updates, into beautiful, simple diagrams that tease out unseen patterns and connections. Good design, he suggests, is the best way to navigate information glut - and it may just change the way we see the world.
+
+Making data mean more through storytelling [TED Talk]   https://www.youtube.com/watch?v=6xsvGYIxJok
+
+Ben Wellington uses data to tell stories. In fact, he draws on some key lessons from fields well outside computer science and data analysis to make his observations about New York City fascinating. Never has a fire hydrant been so interesting as in this talk.
+
+Gapminder   https://www.gapminder.org/
+
+Gapminder is an independent educational non-profit, fighting global misconceptions using data visualisation and storytelling.
+
+How to avoid death By PowerPoint [TED Talk]   https://www.youtube.com/watch?v=Iwpi1Lm6dFo
+
+With a seldom seen depth of knowledge and passion for his subject, David Phillips has become the leading Swedish figurehead in the art of making presentations.
+
+The 110 techniques of communication and public speaking [TED Talk] https://www.youtube.com/watch?v=K0pxo-dS9Hc
+
+In this TEDx talk, David Phillips gives us the most important skills a communicator needs to bring to presentations and everyday communication.
